@@ -4,3 +4,5 @@ Dont know when and how to start
 Do only 
 Dont think
 WTF
+Here is some code that 
+<a href="www.google.com">To Google</a>
